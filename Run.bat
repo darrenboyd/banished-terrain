@@ -1,0 +1,1 @@
+..\bin\x64\Application-x64-profile.exe /pathres ../landscape /pathdat ../landscape/bin

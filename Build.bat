@@ -1,0 +1,1 @@
+..\bin\x64\Tools-x64.exe /build Package.rsc:list /pathres ../landscape /pathdat ../landscape/bin
