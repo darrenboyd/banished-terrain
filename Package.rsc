@@ -3,7 +3,6 @@ PackageFile translationExample
 	String _name = "Landscape Example";
 	String _author = "Darren Boyd";
 	String _description = "This is an example mod for the Banished Toolkit. This mod adds a new map type.";
-	String _icon = "icon.png";
 	String _preview = "preview.jpg";
 	int _userVersion = 1;
 
