@@ -1,0 +1,1 @@
+..\bin\x64\Tools-x64.exe /mod Package.rsc:terrain /pathres ../landscape /pathdat ../landscape/bin

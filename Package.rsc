@@ -1,4 +1,4 @@
-PackageFile translationExample
+PackageFile terrain
 {
 	String _name = "Landscape Example";
 	String _author = "Darren Boyd";
